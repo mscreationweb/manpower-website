@@ -71,7 +71,7 @@ class Footer extends React.Component {
 </li>
     <li><a href={"https://www.facebook.com/people/FS-Rentals/61565361090729/?mibextid=qi2Omg&rdid=m0wzGPYRw2z0xar2&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FYPnEAxPgB94g5nN3%2F%3Fmibextid%3Dqi2Omg"} className="fa-brands fa-facebook" target="_blank"/></li>
     <li><a href={"https://www.instagram.com/fs_rentals_/?utm_source=qr&igsh=b2Q5cXZvc3Z0dHZk"} className="fa-brands fa-instagram" target="_blank"/></li>
-  <li><a href={"mailto:info@fastestservice.in"} className="fa-solid fa-envelope" target="_blank"/></li>
+  <li><a href={"mailto:info@fastestservicesa.com"} className="fa-solid fa-envelope" target="_blank"/></li>
 
     {/* <li><a href={"https://wa.me/0097 1552 013554"} className="fa fa-whatsapp" /></li> */}
 </ul>
@@ -87,7 +87,7 @@ class Footer extends React.Component {
                                             <ul>
                                             <li><a href="tel:+966551749704" style={{color:'#999999'}}>+9665 5174 9704</a></li>
                                             <li><a href="tel:+966500367643" style={{color:'#999999'}}>+9665 00367 643</a></li>
-    <li ><a href="mailto:info@fastestservice.in " style={{color:'#999999'}}>info@fastestservice.in</a></li>
+    <li ><a href="mailto:info@fastestservicesa.com " style={{color:'#999999'}}>info@fastestservicesa.com</a></li>
     {/* <li><a href="tel:++0097 1552 013554" style={{color:'#999999'}}>+0097 1552 013554</a></li> */}
 </ul>
 

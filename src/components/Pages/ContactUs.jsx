@@ -116,7 +116,7 @@ class ContactUs extends React.Component {
                                                     <div className="icon-xs"><i className="fa fa-envelope" style={{color:"#026EB6"}} /></div>
                                                     <div className="icon-content">
                                                         <h5 className="m-t0 font-weight-500">Email address</h5>
-                                                        <a href="mailto: info@fastestservice.in" style={{color:'white'}}>info@fastestservice.in
+                                                        <a href="mailto: info@fastestservicesa.com" style={{color:'white'}}>info@fastestservicesa.com
                                                         </a>
                                                     </div>
                                                 </div>
