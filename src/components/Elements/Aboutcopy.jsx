@@ -224,7 +224,7 @@ class Aboutcopy extends React.Component {
                                         <div className="m-about-years bg-moving" style={{backgroundImage:"url(" + bnr1 + ")",width:"100%"}}>
                                             {/* <span className="text-primary large-title">40</span> */}
                                             {/* <span className="large-title-info">Years of Experience</span> */}
-                                            <h3 className="font-weight-900" style={{textAlign:'start',color:'#026EB6'}}>Scaffoling</h3>
+                                            <h3 className="font-weight-900" style={{textAlign:'start',color:'#026EB6'}}>Scaffolding</h3>
                                         </div>
                                         {/* <h3 className="font-weight-600">  Drive Growth with<span style={{color:'#026EB6'}}> Effective</span>  Branding </h3> */}
                                         {/* <p className='p-t30' style={{textAlign:"justify",textJustify:'inter-word'}}>

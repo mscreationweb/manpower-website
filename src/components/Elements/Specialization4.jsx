@@ -22,8 +22,8 @@ const services1 = [
         count: 'Our Mission',
         title: 'Our Mission',
         icon: require('./../../images/All manpower img/script.png'),
-        description: `Quality & customer satisfaction is the prime motto of our company. Our mission is to continuously optimize our business through our world class solutions, services & prod- ucts. We ensure the success of our company by constantly & consistently satisfying our costumer's requirements. 
-           Our values are absolutely business relevant-and we strongly believe that no customer would to work with a company which is not perceived as reliable, excellent & innovative.`,
+        description: `Quality & customer satisfaction is the prime motto of our company. Our mission is to continuously optimize our business through our world class solutions, services & products. We ensure the success of our company by constantly & consistently satisfying our costumer's requirements. 
+           Our values are absolutely business relevant and we strongly believe that no customer would to work with a company which is not perceived as reliable, excellent & innovative.`,
     }
 ]
 var img1 = require('./../../images/background/ptn-1.png');

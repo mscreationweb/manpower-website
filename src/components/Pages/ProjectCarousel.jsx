@@ -34,7 +34,7 @@ const projects = [
     },
     {
         image: require('./../../images/All manpower img/Scaffolding.webp'),
-        title: 'Scaffoling',
+        title: 'Scaffolding',
         description: 'Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim'
     }
     

@@ -73,7 +73,7 @@ class ProjectDetail extends React.Component {
                                 <div className="project-detail-containt">
                                     <div className="bg-white text-black">
                                         <h4 className="font-weight-600">FASTEST SERVICE GENERAL CONTRACTING EST.</h4>
-                                        <p style={{textAlign:'justify',textJustify:'inter-word'}}>always consider safety in the very top priority at all times, It is the policy of our company, that not one single employee is put at risk or endangered by any pro -cedure or standard practices, The company will abide by all letters of Saudi Govemment regulations, Client's Safety regulations published before, after or within any contract. When conflicts arise between S.A.G regulations and the Client's regulations, then strict ones prevail, No employee is allowed to operate any powered machinery without a S.A.G License, if required. All managerial and supervisory staff of all levels is always reminded to enforce safety and wellbeing of employees, in addition to productivity, It is also advised that when they are in doubt about safety standards prevailing on site, then contact or consult the Loss Prevention representative.
+                                        <p style={{textAlign:'justify',textJustify:'inter-word'}}>always consider safety in the very top priority at all times, It is the policy of our company, that not one single employee is put at risk or endangered by any procedure or standard practices, The company will abide by all letters of Saudi Govemment regulations, Client's Safety regulations published before, after or within any contract. When conflicts arise between S.A.G regulations and the Client's regulations, then strict ones prevail, No employee is allowed to operate any powered machinery without a S.A.G License, if required. All managerial and supervisory staff of all levels is always reminded to enforce safety and wellbeing of employees, in addition to productivity, It is also advised that when they are in doubt about safety standards prevailing on site, then contact or consult the Loss Prevention representative.
                                         </p>
 
                                         <div className="m-b0">
@@ -101,7 +101,7 @@ class ProjectDetail extends React.Component {
                                         </div>
                                     </div>
                                 </div>
-                                        <p style={{textAlign:'justify',textJustify:'inter-word'}}>Our Management sets a high standard for employee's safety, Health and Welfare Protection, Production and Safety on site are vital criteria to ensure work execution in properly manner. Recognizing these in the best interest of modern ma- -nagement practices, FASTEST SERVICE GENERAL CONTRACTING EST., is continuously working on: 
+                                        <p style={{textAlign:'justify',textJustify:'inter-word'}}>Our Management sets a high standard for employee's safety, Health and Welfare Protection, Production and Safety on site are vital criteria to ensure work execution in properly manner. Recognizing these in the best interest of modern management practices, FASTEST SERVICE GENERAL CONTRACTING EST., is continuously working on: 
                                         </p>
                                         <div className="section-content">
                                             
@@ -111,7 +111,7 @@ class ProjectDetail extends React.Component {
                                                     </li>
                                                     <li>Providing an adequate and safe place to accommodate our personnel on site with portable water, first aid facilities and proper sanitation. 
                                                     </li>
-                                                    <li>To educate all personnel on safety methods, procedures, using personnel protective equipment, and existing restricti -ons prevailing on site. * Conduct ten-minute safety discussions, organized and implemented by each crew supervisor every working day, Min- -utes of the meeting will be forwarded to Client Representative.</li>
+                                                    <li>To educate all personnel on safety methods, procedures, using personnel protective equipment, and existing restrictions prevailing on site. Conduct ten-minute safety discussions, organized and implemented by each crew supervisor every working day, Minutes of the meeting will be forwarded to Client Representative.</li>
                                                 </ol>
                                                 {/* <ol className="list-num-count lower-alpha">
                                                     <li>Creating a sustainable future through building preservation, green architecture, and smart design.Creating quality urban lifestyles.</li>

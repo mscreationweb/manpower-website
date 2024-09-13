@@ -196,7 +196,7 @@ Water and Sewer Lines, Electrical Trenches, Gas Lines.</p>
                                 </div>
                                 <div className="col-md-8 col-sm-6">
                                     <div className="mt-box our-story-detail bg-moving bg-cover" style={{ backgroundImage: 'url(' + img2 + ')' }}>
-                                        <h4 className="m-b20" style={{fontSize:'30px',color:'#026EB6'}}>Scaffoling</h4>
+                                        <h4 className="m-b20" style={{fontSize:'30px',color:'#026EB6'}}>Scaffolding</h4>
                                         <p className='whytargefy'>1.
                                         Scaffolding services involve the design, erection, maintenance, and dismantling of temporary structures used to support workers and materials during the construction, repair, or maintenance of buildings, bridges, and other large structures. These services are crucial for ensuring safety and efficiency on construction sites, providing access to hard-to-reach areas</p>
                                        <p  className='whytargefy'>2. Assembling the scaffolding structure on-site, ensuring stability and safety.
